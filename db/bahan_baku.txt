@@ -1,0 +1,1 @@
+CREATE TABLE `bahan_baku` (  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT 'ID',  `nm_bahan` varchar(35) DEFAULT NULL COMMENT 'Nama Bahan',  `harga` decimal(10,0) DEFAULT NULL COMMENT 'Harga',  PRIMARY KEY (`id`)) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1

@@ -1,0 +1,2 @@
+
+CREATE TABLE `satuan_bahan_baku` (  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT 'ID',  `nm_satuan` varchar(15) DEFAULT NULL COMMENT 'Nama Satuan',  PRIMARY KEY (`id`)) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1
